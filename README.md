@@ -1,2 +1,2 @@
 # ajaxsearchbox
-Search Area buuilt with AJAX and jQuery
+Search Area buuilt with AJAX, jQuery, and JSON object
